@@ -1,0 +1,15 @@
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\bin\Debug\net6.0\TextRPG_03.exe
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\bin\Debug\net6.0\TextRPG_03.deps.json
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\bin\Debug\net6.0\TextRPG_03.runtimeconfig.json
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\bin\Debug\net6.0\TextRPG_03.dll
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\bin\Debug\net6.0\TextRPG_03.pdb
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.csproj.AssemblyReference.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.AssemblyInfoInputs.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.AssemblyInfo.cs
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.csproj.CoreCompileInputs.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.dll
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\refint\TextRPG_03.dll
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.pdb
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\TextRPG_03.genruntimeconfig.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\TextRPG_03\obj\Debug\net6.0\ref\TextRPG_03.dll
